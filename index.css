@@ -1,0 +1,19 @@
+p#bad-text {
+    background-color: rgb(255, 0, 0)
+}
+
+p#good-text {
+    background-color: rgb(0, 255, 0)
+}
+
+p#missing-text {
+    color: gray
+}
+
+p.text-part {
+    white-space: pre-wrap;
+}
+
+div#text-display {
+    display: flex
+}
